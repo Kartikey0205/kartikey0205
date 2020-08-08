@@ -4,11 +4,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/kartikey0217?label=Follow&style=social)](https://github.com/kartikey0217/?tab=follow)
 ---
 ## Hi there 👋,           
-I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech.  I am a tech and coding enthusiasts, Would love to be a Full Stack Web Developer and Android Developer and see myself as a Software Developer in my future. I love to spend time with techy stuff and exploring new things and people.
+I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech (CSE).  I am a tech and coding enthusiasts, Would love to be a Full Stack Web Developer and Android Developer and see myself as a Software Developer in my future. I love to spend time with techy stuff and exploring new things and people.
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of ideathon , hackathons as a #Participants and as a #Volunteer
+- 😄 I have been a part of ideathon , hackathons as a #Participants and as a #Volunteer
 - 🔭 I am currently a Campus Super Hero at Coding Blocks, Ambassador in Regex Software and also in a KAI Classes.
 - 🌱 I love to speak at public events and looking forward  as a motivator at many events. I also guides some of my peers related to my tech field.
 - ⚡ I’m currently learning about all advance Concepts of C++ , Data Structure and Algorithms and looking forwards in the field of Flutter. 
