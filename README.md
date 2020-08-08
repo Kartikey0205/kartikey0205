@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/kartikey0217?label=Follow&style=social)](https://github.com/kartikey0217/?tab=follow)
 ---
 ## Hi there 👋,           
-I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech.  I am a tech and coding enthusiasts, Would love to be a Full Stack Web Developer and Android Developer and see myself as a Software Developer in my later carrier. I love to spend time with techy stuff and exploring new things and people.
+I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech.  I am a tech and coding enthusiasts, Would love to be a Full Stack Web Developer and Android Developer and see myself as a Software Developer in my future. I love to spend time with techy stuff and exploring new things and people.
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
