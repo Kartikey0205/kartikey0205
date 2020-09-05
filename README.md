@@ -11,7 +11,7 @@ I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech (CSE
 - 😄 I have been a part of ideathon , hackathons as a #Participants and as a #Volunteer
 - 🔭 I am currently a Campus Super Hero at Coding Blocks, Ambassador in Regex Software and also in a KAI Classes.
 - 🌱 I love to speak at public events and looking forward  as a motivator at many events. I also guides some of my peers related to my tech field.
-- ⚡ I’m currently learning about all advance Concepts of C++ , Data Structure and Algorithms and looking forwards in the field of Flutter. 
+- ⚡ I’m currently learning about all advance Concepts of C++ , Data Structure and Algorithms and looking forwards in the field of Flutter also exploring all tech information related to Android Development. 
 - 👯 And Many More...
 
 
@@ -20,7 +20,27 @@ I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech (CSE
 - 💬 Ask me about anything and everything anytime !! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/918529749879)
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me  and also interested in eating various food! 
-- 💬 Ping Me about #Web Development , #Android Development , #C-Language, #C++, #speaking opportunity, and anything you like
+- 💬 Ping Me about #Web Development , #Android Development , #C-Language, #C++, #Python, #DataStructure and Algorithms, #speaking opportunity, and anything you like.
+---
+**Languages and Tools:**  
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github.*
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey0217" />
+</a>
+
 ---
 ![Kartikey's github stats](https://github-readme-stats.vercel.app/api?username=kartikey0217&show_icons=true)
 
