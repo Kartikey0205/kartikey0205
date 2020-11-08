@@ -35,7 +35,7 @@ I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech (CSE
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github.*
+*<h3>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github.</h3>*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey0217" />
