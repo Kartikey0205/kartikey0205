@@ -9,7 +9,7 @@ I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech (CSE
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 😄 I have been a part of ideathon , hackathons as a #Participants and as a #Volunteer
-- 🔭 I am currently a Campus Super Hero at Coding Blocks, Ambassador in Regex Software and also in a KAI Classes.
+- 🔭 I had been a part of several ambassador program of tech community like , a Campus Super Hero at Coding Blocks, Regex Software and also in a KAI Classes.
 - 🌱 I love to speak at public events and looking forward  as a motivator at many events. I also guides some of my peers related to my tech field.
 - ⚡ I’m currently learning about all advance Concepts of C++ , Data Structure and Algorithms and looking forwards in the field of Flutter also exploring all tech information related to Android Development. 
 - 👯 And Many More...
