@@ -3,6 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-dkartikey1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkartikey1@gmail.com)](mailto:dkartikey1@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/kartikey0217?label=Follow&style=social)](https://github.com/kartikey0217/?tab=follow)
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartikey0217" alt="Kartikey" /> </p></br>
+
 ## Hi there 👋,           
 I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech (CSE).  I am a tech and coding enthusiasts, Would love to be a Full Stack Web Developer and Android Developer and see myself as a Software Developer in my future. I love to spend time with techy stuff and exploring new things and people.
 
