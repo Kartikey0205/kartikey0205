@@ -1,5 +1,5 @@
 # Kartikey Dubey 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/-@KartikeyDubey-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KARTIKE26127836)](https://twitter.com/KARTIKE26127836) [![Linkedin Badge](https://img.shields.io/badge/-KartikeyDubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikeydubey02/)](https://www.linkedin.com/in/kartikeydubey02/) 
+[![Twitter Badge](https://img.shields.io/badge/-@KartikeyDubey-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KartikeyDubey02)](https://twitter.com/KartikeyDubey02) [![Linkedin Badge](https://img.shields.io/badge/-KartikeyDubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikeydubey02/)](https://www.linkedin.com/in/kartikeydubey02/) 
 [![Gmail Badge](https://img.shields.io/badge/-dkartikey1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkartikey1@gmail.com)](mailto:dkartikey1@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/kartikey0217?label=Follow&style=social)](https://github.com/kartikey0217/?tab=follow)
 ---
