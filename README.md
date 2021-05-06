@@ -1,19 +1,20 @@
 # Kartikey Dubey 👨‍💻
 [![Twitter Badge](https://img.shields.io/badge/-@KartikeyDubey-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KartikeyDubey02)](https://twitter.com/KartikeyDubey02) [![Linkedin Badge](https://img.shields.io/badge/-KartikeyDubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikeydubey02/)](https://www.linkedin.com/in/kartikeydubey02/) 
 [![Gmail Badge](https://img.shields.io/badge/-dkartikey1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkartikey1@gmail.com)](mailto:dkartikey1@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/kartikey0217?label=Follow&style=social)](https://github.com/kartikey0217/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/kartikey0205?label=Follow&style=social)](https://github.com/kartikey0205/?tab=follow)
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartikey0217" alt="Kartikey" /> </p></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartikey0205" alt="Kartikey" /> </p></br>
 
 ## Hi there 👋,           
-I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech (CSE).  I am a tech and coding enthusiasts, Would love to be a Full Stack Web Developer and Android Developer and see myself as a Software Developer in my future. I love to spend time with techy stuff and exploring new things and people.
+I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech (CSE).  I am a tech and coding enthusiasts, Would love to be a Full Stack Web Developer  and see myself as a Software Developer in my future. I love to spend time with techy stuff and exploring new things and people.
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 😄 I have been a part of ideathon , hackathons as a #Participants and as a #Volunteer
 - 🔭 I had been a part of several ambassador program of tech community like , a Campus Super Hero at Coding Blocks, Regex Software and also in a KAI Classes.
+- 🔭 I had been worked as a Web Development Lead of Cosec Community for the tenure of 5 months .
 - 🌱 I love to speak at public events and looking forward  as a motivator at many events. I also guides some of my peers related to my tech field.
-- ⚡ I’m currently learning about all advance Concepts of C++ , Data Structure and Algorithms and looking forwards in the field of Flutter also exploring all tech information related to Android Development. 
+- ⚡ I’m currently learning about all Concepts of  Data Structure and Algorithms and also enhancing all tech information and my skill related to Web Development. 
 - 👯 And Many More...
 
 
