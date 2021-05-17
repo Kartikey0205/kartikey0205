@@ -38,7 +38,7 @@ I'm Kartikey Dubey, Student at 👨‍💻 JECRC University Pursuing B.Tech (CSE
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-*<h3>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github.</h3>*
+*<h3>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github.There are more repository in other languages other than the mentioned one as well but I had limited github metric to show max upto 4 languages. </h3>*
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey0205&langs_count=8&hide=python,html,Java,scss" />
