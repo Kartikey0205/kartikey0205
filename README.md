@@ -5,7 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-dkartikey1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkartikey1@gmail.com)](mailto:dkartikey1@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/kartikey0205?label=Follow&style=social)](https://github.com/kartikey0205/?tab=follow)
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartikey0205" alt="Kartikey" /> </p></br>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartikey0205" alt="Kartikey" /> </p></br> -->
 
 ## Hi there 👋,           
 I'm Kartikey Dubey, a Junior Year Computer Science Engineering Undergrad  at 👨‍💻 JECRC University.  I am a tech and coding enthusiasts, would love to be a Full Stack Web Developer  and see myself as a Software Developer in my future. 
@@ -39,17 +40,36 @@ I love to spend time with techy stuff and exploring new things and people.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 
 
 *<h3>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github.There are more repository in other languages other than the mentioned one as well but I had limited github metric to show max upto 4 languages. </h3>*
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey0205&langs_count=8&hide=python,html,Java,scss,ejs,less,php,ruby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey0205&langs_count=8&hide=python,C#,less,php,ruby" />
 </a>
 
 ---
 ![Kartikey's github stats](https://github-readme-stats.vercel.app/api?username=kartikey0205&show_icons=true)
+<hr>
+<p align="center">
+   <i>Let's connect and chat! Open to anything under the sun.</i>
+  <p align="center">
+    <a href="https://twitter.com/KartikeyDubey02" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/kartikeydubey02/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:dkartikey1@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+       <a href="https://kartikey0205.github.io/KartikeyDubey/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+  <p align="center">  
+     <img align="center" src="https://komarev.com/ghpvc/?username=Kartikey0205"> 
+  </p>
+</p>
 
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
 
 
 
