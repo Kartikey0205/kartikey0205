@@ -80,7 +80,7 @@ I love to spend time with techy stuff and exploring new things and people.
     <a href="https://twitter.com/KartikeyDubey02" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/kartikeydubey02/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:dkartikey1@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-       <a href="https://kartikey0205.github.io/KartikeyDubey/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+       <a href="https://kartikey-dubey.vercel.app/" alt="My portfolio"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
   <p align="center">  
      <img align="center" src="https://komarev.com/ghpvc/?username=Kartikey0205"> 
