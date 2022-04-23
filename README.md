@@ -47,14 +47,32 @@ I love to spend time with techy stuff and exploring new things and people.
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 
 
-*<h3>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github.There are more repository in other languages other than the mentioned one as well but I had limited github metric to show max upto 4 languages. </h3>*
+<!-- *<h3>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github.There are more repository in other languages other than the mentioned one as well but I had limited github metric to show max upto 4 languages. </h3>* -->
 
-<a>
+<!-- <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey0205&langs_count=8&hide=python,C#,less,php,ruby" />
-</a>
+</a> -->
+<div align="center" title="Go to Source">
+  *<h6>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github as a public ones only .There are more repository in other languages(private too) other than the mentioned one as well but I had limited github metric to show max upto 8 languages. </h3>*
+    <img
+         width="335"
+         align="left"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey0205&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=python,C#,less,php,ruby,CSS,HTML"
+         />
+  </a>
+    <img
+         align="center"
+         width="396"
+         src="https://github-readme-stats.vercel.app/api?username=kartikey0205&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+         />
+  </a>
+</div>
+  
+  
+  
 
----
-![Kartikey's github stats](https://github-readme-stats.vercel.app/api?username=kartikey0205&show_icons=true)
+<!-- ![Kartikey's github stats](https://github-readme-stats.vercel.app/api?username=kartikey0205&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true) -->
+<br><br>
 <hr>
 <p align="center">
    <i>Let's connect and chat! Open to anything under the sun.</i>
