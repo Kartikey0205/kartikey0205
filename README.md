@@ -23,7 +23,7 @@ I love to spend time with techy stuff and exploring new things and people.
 - 👯 And Many More...
 
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# Hello people!&nbsp;👋,
 
 - 💬 Ask me about anything and everything anytime !! 
 - 📫 How to reach me: ping me on[Whatsapp](https://wa.me/918529749879) or <a href="https://kartikey0205.github.io/KartikeyDubey/"> Visit My Portfolio </a>
