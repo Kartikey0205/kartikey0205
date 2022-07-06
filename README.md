@@ -26,7 +26,7 @@ I love to spend time with techy stuff and exploring new things and people.
 # Hello people!&nbsp;👋,
 
 - 💬 Ask me about anything and everything anytime !! 
-- 📫 How to reach me: ping me on[Whatsapp](https://wa.me/918529749879) or <a href="https://kartikey0205.github.io/KartikeyDubey/"> Visit My Portfolio </a>
+- 📫 How to reach me: ping me on[Whatsapp](https://wa.me/918529749879) or <a href="https://kartikey-dubey.vercel.app/"> Visit My Portfolio </a>
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me  and also interested in eating various food! 
 - 💬 Ping Me about #Web Development , #Basic App Development, #C-Language, #C++, #Python, #DataStructure and Algorithms, #speaking opportunity, and anything you like.
 ---
