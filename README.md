@@ -63,7 +63,7 @@ I love to spend time with techy stuff and exploring new things and people.
   <img
          align="center"
          width="400"
-         src="https://github-readme-stats.vercel.app/api?username=Kartikey0205&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true"
+         src="https://github-readme-stats.vercel.app/api?username=Kartikey0205&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
          />
 
 </div>
