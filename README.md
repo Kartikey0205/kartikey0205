@@ -67,7 +67,19 @@ I love to spend time with techy stuff and exploring new things and people.
          />
 
 </div>
-  
+  <br><br>
+
+  <div align="center">
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img
+        align="center"
+        width="50%"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey0205&theme=react&border=61dafb&hide_border=true"
+        alt="Some Records"
+      />
+    </a>
+ 
+  </div>
   
   
 
