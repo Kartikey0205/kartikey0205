@@ -10,7 +10,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartikey0205" alt="Kartikey" /> </p></br> -->
 
 ## Hi there 👋,           
-I'm Kartikey Dubey, a Final Year Computer Science Engineering Undergrad  at 👨‍💻 JECRC University.  I am a tech and coding enthusiasts, would love to be a Full Stack Web Developer  and see myself as a Software Developer in my future. 
+I'm Kartikey Dubey, a Trainee Salesforce Developer  at 👨‍💻 Meatadologie .<br>  I am a tech and coding enthusiast. <br> 
+Exploring about Salesforce Technology. <br>
 I love to spend time with techy stuff and exploring new things and people.
 
 ## 🧐 About
